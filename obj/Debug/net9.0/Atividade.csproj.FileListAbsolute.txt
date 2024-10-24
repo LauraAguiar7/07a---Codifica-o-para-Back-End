@@ -1,0 +1,14 @@
+D:\07a - Codificação para Back-End\atividade\bin\Debug\net9.0\Atividade.exe
+D:\07a - Codificação para Back-End\atividade\bin\Debug\net9.0\Atividade.deps.json
+D:\07a - Codificação para Back-End\atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+D:\07a - Codificação para Back-End\atividade\bin\Debug\net9.0\Atividade.dll
+D:\07a - Codificação para Back-End\atividade\bin\Debug\net9.0\Atividade.pdb
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.dll
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\refint\Atividade.dll
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.pdb
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+D:\07a - Codificação para Back-End\atividade\obj\Debug\net9.0\ref\Atividade.dll
