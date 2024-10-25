@@ -1,6 +1,6 @@
-namespace Atividade
+namespace Atividade 
 {
-    class Cliente
+    class Clientes
     {
         public string nome {get; set;}
         public string endereco {get; set;}
@@ -9,7 +9,7 @@ namespace Atividade
         public float total {get; protected set;}
         public virtual void Pagar_Imposto(float v)
         {
-            this.valor = V;
+            this.valor = v;
             this.valor_imposto = this.valor * 10 / 100;
             this.total = this.valor + this.valor_imposto;
         }
